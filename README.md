@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasogan S</h1>
-<h3 align="center">Aspiring Java Developer | Computer Science and Engineering  Student</h3>
+<h3 align="center">Aspiring Java Developer | Computer Science and Engineering Student</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Pre-Final Year **Computer Science and Engineering ** Student
+* 🎓 Pre-Final Year **Computer Science and Engineering** Student
 * 💻 Passionate about **Java, Spring Boot & Backend Development**
 * 🤖 Currently working on **Full Stack Development**
 * 📚 Improving **DSA & Problem Solving Skills**
