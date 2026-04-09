@@ -32,7 +32,7 @@ Ability to build real-world scalable applications
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://github.com/Yasogan117&theme=dark)
 📬 Contact
 📧 your-email@example.com
 🔗 GitHub: https://github.com/YOUR_USERNAME
