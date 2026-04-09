@@ -67,7 +67,7 @@
 
 * 🥇 Improving DSA problem solving skills
 * 📜 Learning Java Full Stack Development
-* 💡 Building real-world AI projects
+* 💡 Building real-world  projects
 
 ---
 
