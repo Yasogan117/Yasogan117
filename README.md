@@ -61,7 +61,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/yasogan17?theme=dark&font=Baloo&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/Yasogan117?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
