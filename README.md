@@ -6,9 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://linkedin.com/in/Yasogan-Saravanan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/yasogan-saravanan-a0826b2a6)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=e6edf3&labelColor=0d1117)](https://github.com/Yasogan117)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1117)](mailto:yasogansabarai143@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1117)](mailto:yasogan1117@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=ffa116&labelColor=0d1117)](https://leetcode.com/Yasogan117)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yasogan117&style=flat-square&color=58a6ff&label=profile+views)
@@ -31,7 +31,7 @@ Pre-final year **Computer Science & Engineering** student from Tamil Nadu with a
 - 🧠 &nbsp; Sharpening **DSA & Problem Solving** every day
 - 🎯 &nbsp; Goal: Land a role at a top product-based company
 - 📍 &nbsp; Tamil Nadu, India
-- 📬 &nbsp; [yasogansabarai143@gmail.com](mailto:yasogansabarai143@gmail.com)
+- 📬 &nbsp; [yasogan1117@gmail.com](mailto:yasogan1117@gmail.com)
 
 </td>
 <td width="48%" valign="top">
