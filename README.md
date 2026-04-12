@@ -93,9 +93,9 @@ public class Yasogan {
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=e6edf3)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=ff6c37)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0d1117?style=for-the-badge&logo=intellijidea&logoColor=fe315d)
+![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-0d1117?style=for-the-badge&logo=spring&logoColor=6db33f)
 
 </div>
 
