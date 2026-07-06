@@ -25,7 +25,7 @@
 
 Pre-final year **Computer Science & Engineering** student from Tamil Nadu with a strong focus on **Java-based backend development**. I enjoy building clean, efficient systems and turning complex problems into well-structured code.
 
-- 🎓 &nbsp; B.E. Computer Science & Engineering — Pre-Final Year
+- 🎓 &nbsp; B.E. Computer Science & Engineering — Final Year
 - 💼 &nbsp; Aspiring **Java Backend Developer**
 - 🔭 &nbsp; Building full-stack projects with Spring Boot + React
 - 🧠 &nbsp; Sharpening **DSA & Problem Solving** every day
@@ -79,12 +79,6 @@ public class Yasogan {
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6db33f)
 ![REST API](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff)
 ![JDBC](https://img.shields.io/badge/JDBC-0d1117?style=for-the-badge&logo=java&logoColor=58a6ff)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
 
 **Database**
 
